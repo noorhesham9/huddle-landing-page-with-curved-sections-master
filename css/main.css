@@ -68,7 +68,7 @@ header .head {
   margin-bottom: 240px;
 }
 
-header .head img {}
+
 
 @media(max-width:767px) {
   header .head img {
@@ -99,7 +99,7 @@ header .head .try:hover {
   color: #ffbae6;
 }
 
-header .text {}
+
 
 header .text h2,
 .build h2 {
@@ -225,7 +225,6 @@ header .text p {
   color: #777;
 }
 
-.landing .message {}
 
 .landing .message img {
   width: 38px;
@@ -458,9 +457,7 @@ header .text p {
 
 /* end boxes  */
 /* strat build */
-.build {}
 
-.build h2 {}
 
 /* end build */
 /* start footer  */
@@ -551,7 +548,7 @@ footer .left p {
   font-size: 15px;
 }
 
-footer .left {}
+
 
 footer .left .text {
   margin-left: 10px;
